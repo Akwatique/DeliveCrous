@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "DeliveCrous",
+    "slug": "snack-f9d96234-083a-4f9b-bfd3-794d6fc3f2cf",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.donatienb.snackf9d96234083a4f9bbfd3794d6fc3f2cf"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
